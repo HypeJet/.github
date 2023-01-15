@@ -1,2 +1,2 @@
 # .github
-README for CityWide Organization
+README for HypeJet Network's Github.
