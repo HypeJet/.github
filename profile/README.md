@@ -1,6 +1,7 @@
-## Hi there, Welcome to HypeJet Network's official github 👋
+## 👋 Hi there, Welcome to Hypejet Network's official github organization
 
-- 🙋‍♀️ A short introduction - HypeJet Network is a Minecarft minigame server.
-- 🌈 Contribution guidelines - Just [contact the owner](https://github.com/HEROOSTECH) or (if the repo is public), create pull request.
-- 👩‍💻 Public Useful resources - [MinestomWorldEdit](https://github.com/HypeJet/MinestomWorldEdit), [HypeStom](https://github.com/HypeJet/HypeStom)
-- 🍿 Fun facts - We're using minestom to get max perfomance.
+### ❓️ What's hypejet?
+Hypejet is a project of a high-quality Minecraft minigame server that aims to provide perfect experience and use new solutions, such as Velocity or Minestom.
+
+### 🤔 How can I join?
+Currently you can't. The server is still in development. However, you're welcome to join our [Discord server](https://discord.com/invite/kS4CuPvYD2) to stay up to date with progress.
