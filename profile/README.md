@@ -1,6 +1,6 @@
 ## 👋 Hi there, Welcome to Hypejet Network's official github organization
 
-### ❓️ What's hypejet?
+### ❓️ What's Hypejet?
 Hypejet is a project of a high-quality Minecraft minigame server that aims to provide perfect experience and use new solutions, such as [Velocity](https://github.com/PaperMC/Velocity) and [Jet](https://github.com/Hypejet/Jet).
 
 ### 🤔 How can I join?
